@@ -1,2 +1,4 @@
 # hello-git
-Przykładowe repo do nauki gita 
+Sample repository for learning how to use git.
+# Credits
+The repository was created during a course on PUT.
